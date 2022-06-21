@@ -1,0 +1,11 @@
+{
+    "name": "snipe/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "snipe",
+            "email": "specialsnipe@mail.ru"
+        }
+    ],
+    "require": {}
+}
